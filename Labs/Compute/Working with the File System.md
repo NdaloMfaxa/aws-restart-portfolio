@@ -1,4 +1,4 @@
-"""# 📁 Working with the File System
+# 📁 Working with the File System
 
 ## 📖 Overview
 
